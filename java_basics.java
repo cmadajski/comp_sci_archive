@@ -13,6 +13,11 @@ public static void main(String[] args) {
 	// string using constructor
 	String anotherString = new String("this is another string");
 
+	// enhanced for loop syntax; each element is an "item" from the Array/ArrayList "itemList"
+	for (String item : itemList) {
+		// do things
+		}
+
 }
 
 public class GreatClass {
